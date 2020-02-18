@@ -1,0 +1,12 @@
+Java is one of the world's most important and widely used computer languages, and it has held this distinction for many years. 
+Unlike some other computer languages whose influence has weared with passage of time, while Java's has grown.
+
+As of 2015, Java is one of the most popular programming languages in use, particularly for client-server web applications, Java was developed by James Ghosling, Patrick Naughton, Mike Sheridan at Sun Microsystems Inc. in 1991. It took 18 months to develop the first working version.
+
+The initial name was Oak but it wJava was initially launched as Java 1.0 but soon after its initial release, Java 1.1 was launched. Java 1.1 redefined event handling, new library elements were added.
+
+In Java 1.2 Swing and Collection framework was added and suspend(), resume() and stop() methods were deprecated from Thread class.
+
+No major changes were made into Java 1.3 but the next release that was Java 1.4 contained several important changes. Keyword assert, chained exceptions and channel based I/O System was introduced.
+
+Java 1.5 was called J2SE 5, it added following major new features :as renamed to Java in 1995 as OAK was a registered trademark of another Tech company.with a reported 9 million developers using and working on it.
